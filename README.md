@@ -1,8 +1,7 @@
 <div align="center">
 
 # OptiXGB-IDS  
-### A Lightweight and Interpretable Intrusion Detection Framework for Software-Defined Networks Using Genetic and GAN-Based Optimization
-
+### An Efficient and Interpretable Intrusion Detection Framework for Software-Defined Networks with Multi-Class Imbalanced Data Using Genetic and GAN-Based Optimization
 <p>
   <img src="https://img.shields.io/badge/Task-SDN%20Intrusion%20Detection-0A66C2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Framework-OptiXGB--IDS-6A5ACD?style=for-the-badge">
